@@ -1,0 +1,194 @@
+[10-May-2016 17:20:09 Asia/Kolkata] PHP Warning:  require(/home/nationa5/public_html/school_project/classes/commonClass.php): failed to open stream: No such file or directory in /home/nationa5/public_html/ims/core/config.php on line 31
+[10-May-2016 17:20:09 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required '/home/nationa5/public_html/school_project/classes/commonClass.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/nationa5/public_html/ims/core/config.php on line 31
+[11-May-2016 16:58:45 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[11-May-2016 16:58:45 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[11-May-2016 16:58:45 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[11-May-2016 16:58:45 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[11-May-2016 16:58:45 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[11-May-2016 16:58:45 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[11-May-2016 21:35:25 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[11-May-2016 21:35:25 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[11-May-2016 21:35:25 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[11-May-2016 21:35:25 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[11-May-2016 21:35:25 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[11-May-2016 21:35:25 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[11-May-2016 21:41:57 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[11-May-2016 21:41:57 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[11-May-2016 21:41:57 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[11-May-2016 21:41:57 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[11-May-2016 21:41:57 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[11-May-2016 21:41:57 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[11-May-2016 22:27:29 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[11-May-2016 22:27:29 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[11-May-2016 22:27:29 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[11-May-2016 22:27:29 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[11-May-2016 22:27:29 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[11-May-2016 22:27:29 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[12-May-2016 01:07:07 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[12-May-2016 01:07:07 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[12-May-2016 01:07:07 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[12-May-2016 01:07:07 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[12-May-2016 01:07:07 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[12-May-2016 01:07:07 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[12-May-2016 01:08:18 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[12-May-2016 01:08:18 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[12-May-2016 01:08:18 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[12-May-2016 01:08:18 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[12-May-2016 01:08:18 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[12-May-2016 01:08:18 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[12-May-2016 12:05:43 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[12-May-2016 12:05:43 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[12-May-2016 12:05:43 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[12-May-2016 12:05:43 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[12-May-2016 12:05:43 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[12-May-2016 12:05:43 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[12-May-2016 12:21:52 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[12-May-2016 12:21:52 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[12-May-2016 12:21:52 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[12-May-2016 12:21:52 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[12-May-2016 12:21:52 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[12-May-2016 12:21:52 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[12-May-2016 21:40:12 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[12-May-2016 21:40:12 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[12-May-2016 21:40:12 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[12-May-2016 21:40:12 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[12-May-2016 21:40:12 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[12-May-2016 21:40:12 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[12-May-2016 22:22:35 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[12-May-2016 22:22:35 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[12-May-2016 22:22:35 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[12-May-2016 22:22:35 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[12-May-2016 22:22:35 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[12-May-2016 22:22:35 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[13-May-2016 14:53:02 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[13-May-2016 14:53:02 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[13-May-2016 14:53:02 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[13-May-2016 14:53:02 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[13-May-2016 14:53:02 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[13-May-2016 14:53:02 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[13-May-2016 19:28:06 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[13-May-2016 19:28:06 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[13-May-2016 19:28:06 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[13-May-2016 19:28:06 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[13-May-2016 19:28:06 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[13-May-2016 19:28:06 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[13-May-2016 22:42:55 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[13-May-2016 22:42:55 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[13-May-2016 22:42:55 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[13-May-2016 22:42:55 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[13-May-2016 22:42:55 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[13-May-2016 22:42:55 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[13-May-2016 22:57:08 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[13-May-2016 22:57:08 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[13-May-2016 22:57:08 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[13-May-2016 22:57:08 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[13-May-2016 22:57:08 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[13-May-2016 22:57:08 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[14-May-2016 00:19:39 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[14-May-2016 00:19:39 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[14-May-2016 00:19:39 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[14-May-2016 00:19:39 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[14-May-2016 00:19:39 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[14-May-2016 00:19:39 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[14-May-2016 18:33:34 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[14-May-2016 18:33:34 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[14-May-2016 18:33:34 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[14-May-2016 18:33:34 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[14-May-2016 18:33:34 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[14-May-2016 18:33:34 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[14-May-2016 19:31:21 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[14-May-2016 19:31:21 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[14-May-2016 19:31:21 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[14-May-2016 19:31:21 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[14-May-2016 19:31:21 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[14-May-2016 19:31:21 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[14-May-2016 19:41:43 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[14-May-2016 19:41:43 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[14-May-2016 19:41:43 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[14-May-2016 19:41:43 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[14-May-2016 19:41:43 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[14-May-2016 19:41:43 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[14-May-2016 22:10:20 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[14-May-2016 22:10:20 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[14-May-2016 22:10:20 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[14-May-2016 22:10:20 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[14-May-2016 22:10:20 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[14-May-2016 22:10:20 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[14-May-2016 22:21:39 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[14-May-2016 22:21:39 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[14-May-2016 22:21:39 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[14-May-2016 22:21:39 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[14-May-2016 22:21:39 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[14-May-2016 22:21:39 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[14-May-2016 22:58:50 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[14-May-2016 22:58:50 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[14-May-2016 22:58:50 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[14-May-2016 22:58:50 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[14-May-2016 22:58:50 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[14-May-2016 22:58:50 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[14-May-2016 23:56:30 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[14-May-2016 23:56:30 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[14-May-2016 23:56:30 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[14-May-2016 23:56:30 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[14-May-2016 23:56:30 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[14-May-2016 23:56:30 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 00:06:16 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 00:06:16 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 00:06:16 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 00:06:16 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 00:06:16 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 00:06:16 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 14:51:24 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 14:51:24 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 14:51:24 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 14:51:24 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 14:51:24 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 14:51:24 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 14:54:52 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 14:54:54 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 14:54:54 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 14:54:54 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 14:54:54 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 14:54:54 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 14:54:54 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 16:30:34 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 16:30:34 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 16:30:34 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 16:30:34 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 16:30:34 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 16:30:34 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 17:15:14 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 17:15:14 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 17:15:14 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 17:15:14 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 17:15:14 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 17:15:14 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 22:27:06 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 22:27:06 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 77
+[15-May-2016 22:27:07 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 22:27:07 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 78
+[15-May-2016 22:27:07 Asia/Kolkata] PHP Notice:  Undefined variable: user_group_data in /home/nationa5/public_html/ims/modules/login.php on line 79
+[15-May-2016 22:27:07 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/nationa5/public_html/ims/modules/login.php on line 79
