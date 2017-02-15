@@ -1,4 +1,4 @@
-[10-May-2016 17:10:35 Asia/Kolkata] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/nationa5/public_html/school_project/classes/commonClass.php on line 51
+[10-May-2016 17:10:35 Asia/Kolkata] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/nationa5/public_html/school_project/classes/commonClass.php on line 51 
 [10-May-2016 17:15:15 Asia/Kolkata] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/nationa5/public_html/school_project/classes/commonClass.php on line 51
 [10-May-2016 17:15:16 Asia/Kolkata] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/nationa5/public_html/school_project/classes/commonClass.php on line 51
 [10-May-2016 17:16:13 Asia/Kolkata] PHP Warning:  mysql_connect(): Unknown MySQL server host 'nationa5@localhost' (2) in /home/nationa5/public_html/school_project/classes/commonClass.php on line 51
